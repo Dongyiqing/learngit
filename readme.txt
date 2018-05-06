@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I delete this line.
 I am working in dev.
+modified
